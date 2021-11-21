@@ -117,8 +117,6 @@ protobuf==3.12.2
 pyarrow==5.0.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-PyAudio @ file:///C:/Users/aravi/pipwin/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
-PyAutoGUI==0.9.52
 pycparser==2.20
 pydeck==0.7.0
 PyGetWindow==0.0.9
