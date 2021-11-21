@@ -99,7 +99,6 @@ notebook==6.3.0
 numpy==1.19.5
 oauthlib==3.1.0
 opencv-python==4.5.3.56
-opt-einsum==3.2.1
 packaging==20.9
 pandas==1.1.5
 pandas-visual-analysis==0.0.4
