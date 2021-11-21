@@ -171,7 +171,6 @@ testpath==0.4.4
 threadpoolctl==2.1.0
 toml==0.10.2
 toolz==0.11.1
-torch==1.10.0
 tornado==6.1
 tqdm==4.59.0
 traitlets==5.1.1
@@ -181,7 +180,6 @@ ua-parser==0.10.0
 urllib3==1.26.4
 user-agents==2.2.0
 validators==0.18.2
-vboxapi==1.0
 virtualenv==20.4.7
 watchdog==1.0.2
 wcwidth==0.2.5
@@ -193,5 +191,4 @@ wikipedia==1.4.0
 wincertstore==0.2
 world-time-api==2020.5.31
 wrapt==1.12.1
-xgboost==1.4.2
 zipp==3.6.0
